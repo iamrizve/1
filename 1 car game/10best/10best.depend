@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1593965206 source:d:\1 car game\10best\10.c
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<windows.h>
+	<iostream>
+
+1266076214 d:\importance softwear\codeblock new\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
